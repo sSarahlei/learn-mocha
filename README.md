@@ -20,7 +20,8 @@ For students, follow these steps:
 - Name:  
 - ID#:
 - github username: 
-- Estimation of hours I worked on it: 
+- Estimation of hours I worked on it:    
+-travis link:https://travis-ci.org/jce-il-ex/learn-tdd-sSarahlei  
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
